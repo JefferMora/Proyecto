@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           me gusta la verga
+          cristofer es gay
         </a>
       </header>
     </div>
